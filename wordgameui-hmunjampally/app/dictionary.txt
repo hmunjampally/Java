@@ -1,0 +1,4 @@
+Computer
+Hello
+Apple
+Dog
